@@ -1,0 +1,9 @@
+Requirements:
+torch
+torchvision
+numpy
+
+Important imports:
+argparse
+json
+PIL
