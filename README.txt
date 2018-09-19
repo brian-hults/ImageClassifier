@@ -9,3 +9,5 @@ The predict.py file can then be run which will load the checkpoint file from the
 use it to attempt to classify a given flower image supplied by the user. The function will output a formatted 
 graphic of the input flower picture, accompanied by a bar chart depicting the top-K most likely flower species 
 that are in the picture with associated probability values.
+
+Note: train data was too large to upload to this repository, but can be provided upon request.
